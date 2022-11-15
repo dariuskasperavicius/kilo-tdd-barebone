@@ -10,7 +10,9 @@
             "email": "darius.kasperavicius@kilo.health"
         }
     ],
-    "require": {},
+    "require": {
+        "phpunit/phpunit": "^9.5"
+    },
     "autoload": {
         "psr-4": {"TDD\\": "src/"}
     },

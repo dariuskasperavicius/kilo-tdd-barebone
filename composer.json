@@ -4,6 +4,10 @@
         {
             "name": "Arnas Kazlauskas",
             "email": "arnas.kazlauskas@kilo.health"
+        },
+        {
+            "name": "Darius Kasperavicius",
+            "email": "darius.kasperavicius@kilo.health"
         }
     ],
     "require": {},
